@@ -30,7 +30,7 @@ intellij {
 patchPluginXml {
     changeNotes """
     <p>
-        <h2>Version 0.9.1 (2021-07-28)</h2>
+        <h2>Version 0.9.1 (2023-01-26)</h2>
         <ul>
             <li>Plugin is now compatible with IntelliJ version 2022.3.*</li>
             <li>Fixed: boolean data type </li>
